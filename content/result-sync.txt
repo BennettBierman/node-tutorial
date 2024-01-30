@@ -1,0 +1,1 @@
+AlexHere is the result: hello this is a first text file, hello this is a second text fileHere is the result: hello this is a first text file, hello this is a second text file
